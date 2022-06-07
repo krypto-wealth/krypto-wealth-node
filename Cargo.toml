@@ -1,0 +1,14 @@
+[profile.release]
+panic = 'unwind'
+
+[profile.dev]
+split-debuginfo = "unpacked"
+
+[workspace]
+members = [
+    'node',
+    'modules/*',
+    'runtime',
+    'primitives'
+]
+exclude = ['rpc']
