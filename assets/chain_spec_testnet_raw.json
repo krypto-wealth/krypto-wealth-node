@@ -3,6 +3,7 @@
   "id": "krypto_wealth_testnet",
   "chainType": "Live",
   "bootNodes": [
+    "/ip4/144.91.73.77/tcp/30333/p2p/12D3KooWFP437F63eVjHDcfaDZdZ8kv57GnH9Jv5tmtxxvwmPr16"
   ],
   "telemetryEndpoints": [
     [
