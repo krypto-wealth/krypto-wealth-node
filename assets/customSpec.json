@@ -5,7 +5,7 @@
   "bootNodes": [],
   "telemetryEndpoints": [
     [
-      "/dns/telemetry.kwe.oracol.org/tcp/4433/x-parity-wss/%2Fsubmit%2F",
+      "/dns/telemetry.krypto-wealth.org/tcp/8001/x-parity-ws/%2Fsubmit%2F",
       0
     ]
   ],
