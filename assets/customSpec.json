@@ -2,8 +2,7 @@
   "name": "Krypto Wealth Testnet",
   "id": "krypto_wealth_testnet",
   "chainType": "Live",
-  "bootNodes": [
-  ],
+  "bootNodes": [],
   "telemetryEndpoints": [
     [
       "/dns/telemetry.kwe.oracol.org/tcp/443/x-parity-wss/%2Fsubmit%2F",
@@ -36,7 +35,7 @@
         "balances": [
           [
             "5Dc6W9XPM3Q8hv5ZT6pFz35Dq3czCucazT16e398LZDn3HwA",
-            1000000000000000000000
+            774000000000000000000000000
           ],
           [
             "5DegjMLH9ff2aZ4uK6n1feLWPeHPPEhXMhShVMXaXTszk3iQ",
@@ -44,7 +43,7 @@
           ],
           [
             "5Fghd8dgr17aayQZAxyAxEiNikQoXqERnVowEed2QSEdT9wC",
-            100000000000000000000000000
+            1000000000000000000000000
           ],
           [
             "5FduWBKodcoMNx6L4R35hZKM52RLxb2qXEe527a5FKAogcrq",
