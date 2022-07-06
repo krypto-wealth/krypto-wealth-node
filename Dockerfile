@@ -10,4 +10,5 @@ RUN make release
 FROM debian:buster
 
 COPY --from=build /build/target/release/krypto_wealth-node /usr/local/bin
-ENTRYPOINT ["krypto_wealth-node"]
+COPY --from=build /build/assets/chain_spec_testnet_raw.json /usr/local/bin/chain_spec_testnet_raw.json
+ENTRYPOINT ["krypto_wealth-node", "--chain=/usr/local/bin/chain_spec_testnet_raw.json"]
