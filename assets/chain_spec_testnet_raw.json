@@ -3,11 +3,11 @@
   "id": "krypto_wealth_testnet",
   "chainType": "Live",
   "bootNodes": [
-    "/ip4/127.0.0.1/tcp/30333/p2p/12D3KooWEumovNSGFYiKGo4HU7g8KGD7QoiRE3rANJtuP3bRhBf1"
+    "/ip4/167.86.73.223/tcp/30333/p2p/12D3KooWBoST8RmbssoWdDuWGMPRJMAjZ7nmoVALADp6L3g56nhH"
   ],
   "telemetryEndpoints": [
     [
-      "/dns/telemetry.kwe.oracol.org/tcp/443/x-parity-wss/%2Fsubmit%2F",
+      "/dns/telemetry.krypto-wealth.org/tcp/443/x-parity-wss/%2Fsubmit%2F",
       0
     ]
   ],
